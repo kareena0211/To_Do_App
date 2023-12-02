@@ -1,0 +1,10 @@
+import ToDoApp from "./components/ToDo";
+import "./styles.css";
+
+export default function App() {
+  return (
+    <div className="App">
+      <ToDoApp />
+    </div>
+  );
+}
